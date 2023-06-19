@@ -1,8 +1,0 @@
-{
-    "Address": "<rcon server ip>",
-    "Password": "<rcon password",
-    "Timeout": 1,
-    "Bind": "0.0.0.0:8080",
-    "Preset": "minecraft-default.json",
-    "Debug": false
-}
